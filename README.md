@@ -1,2 +1,2 @@
-# travel-blog1github.io
+# travel blog
 Мой первый сайт
